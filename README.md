@@ -1,16 +1,34 @@
-# calculadora_app
+# Calculadora de Alcance para Anúncios
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alefsantana/calculadora_anuncios/blob/master/LICENSE) 
 
-A new Flutter application.
+# Sobre o projeto 📁
 
-## Getting Started
+Calculadora de Alcance é uma aplicação mobile construída durante edição da **Academia Capgemini** , evento organizado pela [Proway](https://www.proway.com.br/ "Site da Proway").
 
-This project is a starting point for a Flutter application.
+A aplicação consiste em calcular o alcance de visualizações dado um determinado valor fornecido pelo usuário, onde as métricas do calculo foram fornecidas pela organizadora do evento. 
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile 📱
+![Mobile 1](https://github.com/alefsantana/assets/blob/main/asset_calculadora.png) ![Mobile 2](https://github.com/alefsantana/assets/blob/main/asset_calculadora2.png) 
+# Tecnologias utilizadas ⚙️
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter
+- Sqflite 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Funcionalidades 📌
+
+- Calculador Alcance de Pessoas que Vizualiram o Anúncio.
+
+
+# Como executar o projeto 📥
+## No Emulador
+Execute o arquivo debug.apk
+
+## No Dispositivo Móvel  
+Execute o arquivo release.apk
+
+
+# Autor 👨‍🎓
+
+Alef Santana 
+
+https://www.linkedin.com/in/alef-santana-28a914133/
