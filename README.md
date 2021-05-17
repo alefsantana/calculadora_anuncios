@@ -16,7 +16,7 @@ A aplicação consiste em calcular o alcance de visualizações dado um determin
 
 # Funcionalidades 📌
 
-- Calculador Alcance de Pessoas que Vizualiram o Anúncio.
+- Calcular o alcance de pessoas que vizualiram o anúncio.
 
 
 # Como executar o projeto 📥
